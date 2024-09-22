@@ -41,7 +41,7 @@ The Stock Portfolio Tracker is a desktop application built with Python's Tkinter
 2. Install Required Libraries: Open a terminal and run the following command to install the requests library:
 pip install requests
 
-4. API Key:
+3. API Key:
 Sign up at Alpha Vantage to get a free API key. Replace YOUR_API_KEY in the code with your actual API key.
 
 
